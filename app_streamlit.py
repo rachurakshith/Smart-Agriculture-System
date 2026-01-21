@@ -47,7 +47,7 @@ def get_live_weather(city):
 # STREAMLIT CONFIG
 # ===============================
 st.set_page_config("Smart Agriculture System", "🌾", layout="wide")
-st.title("🌾 Smart Irrigation & Crop Recommendation System")
+st.title("🌾 Irrigation & Crop Recommendation System")
 
 # ======================================================
 # 🔹 SECTION 1: IRRIGATION
